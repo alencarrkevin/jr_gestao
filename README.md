@@ -8,5 +8,8 @@
 - Minimalist design for showcasing your portfolio
 =======
 # Portfolio JR Consultortia e contrução civil
->>>>>>> kevinalencar2019@gmail.com
+>>>>>>> kevinalencar2019@gmail.com>>>>>>>
+>>>>>>>>DEMONSTRAÇÃO DO PROJETO<<<<<<<<<<
+https://alencarrkevin.github.io/jr_gestao/
+
 
